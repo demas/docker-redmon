@@ -9,7 +9,6 @@ $ docker build -t redmon .
 ## Run
 
 ```
-$ docker run -P -e REDIS_URL=<the redis url> -it redmon:dev
 $ docker run -d -e REDIS_URL=<redis host> -e HTTP_PORT=<port> -e HTTP_AUTH=<auth> redmon
 ```
 
