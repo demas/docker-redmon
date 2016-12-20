@@ -20,5 +20,5 @@ $ docker run -d -e REDIS_URL=redis://password@192.168.0.1:6379 -e HTTP_PORT=4567
 
 ## Related links
 
-https://hub.docker.com/r/wokim/docker-redmon/
-https://github.com/steelThread/redmon
+- https://hub.docker.com/r/wokim/docker-redmon/
+- https://github.com/steelThread/redmon
